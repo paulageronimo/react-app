@@ -39,4 +39,3 @@ else, skip :)
 ## Resources!
 
 - https://reactjs.org
-- 
