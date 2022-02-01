@@ -2,7 +2,7 @@
 
 ## Problem
 
-It can be hard to manage all chats and messaging services, like Skype, sack, What’s up, Viber, telegram, Google hangouts, etc. Try to build a universal messenger that combines them all. 
+It can be hard to manage all chats and messaging services, like Skype, Slack, Whatsapp, Viber, telegram, Google hangouts, etc. Try to build a universal messenger that combines them all.
 
 ## The must-be functionality
 
