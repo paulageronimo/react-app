@@ -36,7 +36,6 @@ else, skip :)
     - ```npm test``` or ```yarn build```
     - ```npm run dev``` or ```yarn start```
 
-
 ## Resources!
 
 - https://reactjs.org
